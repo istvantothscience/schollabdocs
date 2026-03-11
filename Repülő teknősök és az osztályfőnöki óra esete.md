@@ -49,4 +49,10 @@ Készíts egy egyszerűbb felépítésű, de továbbra is nagyon izgalmas és vi
 ## 8\. prompt 
 
 Készíts egy gyerekbarát, színes, rajzfilmszerű űrtematikájú illusztrációt, amely egyszerűbb, jól átlátható kompozíciójú, de tele van vicces, megmagyarázhatatlan és fantáziadús elemekkel. Szerepeljen rajta egy rakéta egy repülő teknős és egy szalmabábú.. Legyenek rajta repülő ételek, és különös űrlények.
-
+![Szörny1](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_53%20PM.png)
+![Szörny2](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_56%20PM.png)
+![Ház](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_59%20PM.png)
+![Malac](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_11_01%20PM.png)
+![Űr1](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_11_04%20PM.png)
+![Űr2](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_11_06%20PM.png)
+![Űr3](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_11_08%20PM.png)
