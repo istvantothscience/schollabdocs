@@ -1,3 +1,15 @@
+---
+title: "Repülő teknősök és az osztályfőnöki óra esete"
+author: Tóth István
+date: "2026.03.11."
+level: 1
+category: "project"
+estimatedTime: "15 perc olvasás + 45 perc óra"
+tags: ["#osztályfőnöki", "#kommunikáció", "#kreativitás"]
+tools: ["#ai-képgenerálás", "#chatgpt"]
+image: "https://picsum.photos/seed/turtle/800/600"
+---
+
 # Repülő teknősök és az osztályfőnöki óra esete
 
 Osztályfőnöknek lenni felelősségteljes és olykor pedagógust próbáló feladat. Az osztályfőnöki órákon pedig egy csapat motiválatlan diákkal szembesülünk, akik kamasz szájhúzogatással jelzik, ha épp nincs ínyükre az újabb adminisztráció, vagy hegyi beszéd. 
