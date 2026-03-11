@@ -7,8 +7,6 @@ De hol itt az AI, és miért gondolom azt, hogy új alkalmazási módot találta
 
 A következőkben láthatjátok az óratervet, valamint a promtokat, amelyeket az óra tervezésénél használtam.
 
-## Óraterv: 
-
 | Időtartam | Tevékenység | Szereplő | Munkaforma | Munkamódszer | Megjegyzés |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | 3 perc | Ráhangolódás, óra céljának ismertetése: közös élmény, kommunikáció, kreativitás | Tanár | Frontális | magyarázás, motiválás |  |
@@ -18,8 +16,6 @@ A következőkben láthatjátok az óratervet, valamint a promtokat, amelyeket a
 | 4 perc | Közös megosztás: eredeti kép és elkészült rajz összehasonlítása | Diák \+ Tanár | Frontális / bemutatás | bemutatás, reflektálás | Humoros élménymegosztás |
 | 10 perc | Páros feladat: A párosokhelyet cserélnek és egy új képet rajzolnak le. | Diák \+ AI \+ Tanár | Kiscsoport | megfigyelés, leírás, közös ötletelés | Pl. repülő teknős, szalmabábú, űrhajó, furcsa tárgyak |
 | 10 perc | Csoportok rövid beszámolója: melyik részletet volt a legnehezebb elmagyarázni? | Diák | Kiscsoport / frontális | szóbeli beszámoló, előadás | Kommunikációs nehézségek tudatosítása |
-
-## Promtok:
 
 ## 1\. prompt 
 
@@ -52,6 +48,7 @@ Készíts egy egyszerűbb felépítésű, de továbbra is nagyon izgalmas és vi
 ## 8\. prompt 
 
 Készíts egy gyerekbarát, színes, rajzfilmszerű űrtematikájú illusztrációt, amely egyszerűbb, jól átlátható kompozíciójú, de tele van vicces, megmagyarázhatatlan és fantáziadús elemekkel. Szerepeljen rajta egy rakéta egy repülő teknős és egy szalmabábú.. Legyenek rajta repülő ételek, és különös űrlények.
+
 ![Szörny1](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_53%20PM.png)
 ![Szörny2](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_56%20PM.png)
 ![Ház](https://github.com/istvantothscience/schollabdocs/blob/main/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2008_10_59%20PM.png)
