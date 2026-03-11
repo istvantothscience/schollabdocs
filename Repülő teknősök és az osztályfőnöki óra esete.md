@@ -15,8 +15,6 @@ A következőkben láthatjátok az óratervet, valamint a promtokat, amelyeket a
 | 4 perc | Közös megosztás: eredeti kép és elkészült rajz összehasonlítása | Diák \+ Tanár | Frontális / bemutatás | bemutatás, reflektálás | Humoros élménymegosztás |
 | 10 perc | Páros feladat: A párosokhelyet cserélnek és egy új képet rajzolnak le. | Diák \+ AI \+ Tanár | Kiscsoport | megfigyelés, leírás, közös ötletelés | Pl. repülő teknős, szalmabábú, űrhajó, furcsa tárgyak |
 | 10 perc | Csoportok rövid beszámolója: melyik részletet volt a legnehezebb elmagyarázni? | Diák | Kiscsoport / frontális | szóbeli beszámoló, előadás | Kommunikációs nehézségek tudatosítása |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 
 ## Promtok:
 
@@ -24,7 +22,7 @@ A következőkben láthatjátok az óratervet, valamint a promtokat, amelyeket a
 
 Egy hatodikos osztály osztályfönöke vagy. Állíts össze osztályfőnöki órára olyan vicces, közösségépítő és kommunikációfejlesztő játékokat, amelyek segítik az osztályközösség erősítését, a figyelmes egymásra hallgatást, az együttműködést és a felszabadult megszólalást. Legyenek ajátékok humorosak és legyen benne csoportos és páros feladat is.
 
-## 2\. prompt – 
+## 2\. prompt 
 
 Készíts egy egyszerű, vicces és barátságos szörnyrajzot, amelyet egy hatodikos gyerek könnyen le tud rajzolni.  Legyen színes, rajzfilmszerű, játékos.
 
