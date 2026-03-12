@@ -23,7 +23,7 @@ A következőkben láthatjátok az óratervet, valamint a promtokat, amelyeket a
 | 3 perc | Ráhangolódás, óra céljának ismertetése: közös élmény, kommunikáció, kreativitás | Tanár | Frontális | magyarázás, motiválás |  |
 | 5 perc | Bemelegítő játék: Néma sorakozó (születési hónap / névsor / testmagasság szerint, lábméret) | Diák \+ Tanár | Teljes osztály | mozgásos játék, nonverbális kommunikáció | Beszéd nélkül kell megoldani |
 | 3 perc | Gyors reflexió: mi segített a kommunikációban beszéd nélkül? | Diák \+ Tanár | Frontális beszélgetés | irányított beszélgetés | 2–3 rövid hozzászólás |
-| 10 perc | Páros feladat: 'Rajzold le, amit mondok\!' – egyik tanuló szemben a táblával szóban leír egy képet, a másik a tábláak hátat fordítva lerajzolja | Diák+AI | Páros | rajzolás, szóbeli instrukció, figyelmes hallgatás | A képek lehetnek AI által generált minták |
+| 10 perc | Páros feladat: 'Rajzold le, amit mondok\!' – egyik tanuló szemben a táblával szóban leír egy képet, a másik a tábláak hátat fordítva lerajzolja | Diák \+ AI \+ Tanár | Páros | rajzolás, szóbeli instrukció, figyelmes hallgatás | A képek lehetnek AI által generált minták |
 | 4 perc | Közös megosztás: eredeti kép és elkészült rajz összehasonlítása | Diák \+ Tanár | Frontális / bemutatás | bemutatás, reflektálás | Humoros élménymegosztás |
 | 10 perc | Páros feladat: A párosokhelyet cserélnek és egy új képet rajzolnak le. | Diák \+ AI \+ Tanár | Kiscsoport | megfigyelés, leírás, közös ötletelés | Pl. repülő teknős, szalmabábú, űrhajó, furcsa tárgyak |
 | 10 perc | Csoportok rövid beszámolója: melyik részletet volt a legnehezebb elmagyarázni? | Diák | Kiscsoport / frontális | szóbeli beszámoló, előadás | Kommunikációs nehézségek tudatosítása |
