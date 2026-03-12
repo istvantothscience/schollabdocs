@@ -10,7 +10,6 @@ tools: ["#ai-képgenerálás", "#chatgpt"]
 image: "https://picsum.photos/seed/turtle/800/600"
 ---
 
-# Repülő teknősök és az osztályfőnöki óra esete
 
 Osztályfőnöknek lenni felelősségteljes és olykor pedagógust próbáló feladat. Az osztályfőnöki órákon pedig egy csapat motiválatlan diákkal szembesülünk, akik kamasz szájhúzogatással jelzik, ha épp nincs ínyükre az újabb adminisztráció, vagy hegyi beszéd. 
 Ez a történet azonban másról szól. A sztori vége happy end és a kicsengő hamarabb ránk rontott, mint az, hogy megunjuk a feladatot. Negyvenöt percünk van mindenre és szeretnél abban hinni, hogy ilyenkor lehetőség van arra is, hogy az osztályt fejlesszük. A kommunikáció, mint tudjuk adó, vevő és csatorna hármasa egy remek tematika, amivel egyszerre fejleszthetjük a csoport tagjai közötti együttműködést, a figyelmet és a kommunikációs készséget. Tehetjük mindezt úgy, hogy közben még jókat röhögünk is. A pozitív hangulatot egy csipetnyi humorral gyorsan meglehet teremteni és ebben a légkörben úgy fejlődnek a gyerekek, hogy észre sem veszik. 
