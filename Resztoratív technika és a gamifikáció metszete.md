@@ -1,3 +1,14 @@
+---
+title: Pofontól a pontokig. A resztoratív alapokon nyugvó gamifikált magatartási rendszer
+author: Tóth István
+date: "2026.03.16."
+level: 4
+category: "project"
+estimatedTime: "15 perc olvasás "
+tags: ["#osztályfőnöki", "#magatartás", "#gamification"]
+tools: ["#ai-képgenerálás", "#chatgpt"]
+---
+
 Balutól, a medvétől jól tudjuk, hogy a pedagógia lényege a szigor (és természetesen a szigorú következmények). Az eszközök, amelyekből pedagógusként válogathatunk, az adott korszellem lenyomatai. Szüleim gyerekkorában a testi fenyítés, a “pofonofon” még elfogadható nevelési eszköz volt. A büntetés nemcsak szóban és írásban, de fizikálisan is a helytelen tettek következménye volt. A 2000-es évek pedagógiai eszköztára már jóval humánusabb és kevésbé agresszív alapokon nyugodott. A büntetés jelen volt, és az ellenőrző füzetbe beírt szaktanári vagy osztályfőnöki figyelmeztetésnek sok esetben valódi hatása és súlya volt. A diákok és szülők szégyenérzete pedig komoly visszatartó erőt jelentett.
 
 Ma, 2026-ban viszont a büntetésen alapuló fegyelmezési eszköz megkopott, és elvesztette jelentőségét. Büntetéskor a diákra könnyen címkét teszünk, és kizárjuk annak lehetőségét, hogy őszintén szembenézzen a tettével, érzelmileg bevonódjon, és javítani tudja viselkedését vagy szokásait. A büntetések halmozásával elinfláljuk azok értékét, és gyakran azt tapasztaljuk, hogy sem a diákot, sem a szülőt nem érdekli már egy újabb szaktanári figyelmeztetés. Ha valóban az a célunk, hogy a bántalmazás (bullying) mértéke csökkenjen, és felelősségteljes, érett érzelmi intelligenciával rendelkező felnőtteket neveljünk, új módszerek után kell kutatnunk.
