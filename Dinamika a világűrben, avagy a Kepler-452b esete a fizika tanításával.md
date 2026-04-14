@@ -1,3 +1,15 @@
+---
+title: "Dinamika a világűrben, avagy a Kepler-452b esete a fizika tanításával"
+author: Tóth István
+date: "2026.4.14."
+level: 4
+category: "project"
+estimatedTime: "15 perc olvasás + 8x45 perc óra"
+tags: ["#fizika", "#vibecoding", "#ai"]
+tools: ["#ai-studio", "#gemini"]
+image: "https://github.com/istvantothscience/schollabdocs/blob/79f9123f93b310092747e4dfa308eb654a6bd79c/Gemini_Generated_Image_lgreflgreflgrefl.png"
+---
+
 Mindannyian tudjuk, hogy a hetedik osztályos fizika egyik legnehezebb pontja az, amikor a diákoknak a Newton-törvények elvont világát kellene a hétköznapi valósággal összekötniük, miközben a tömeg és a súly fogalma a fejükben gyakran reménytelenül összegabalyodik. Erre a kihívásra válaszul alkottam meg a GEM (Galaktikus Edukációs Modul) elnevezésű projektet, amely egy Douglas Adams-re emlékeztető, szellemes sci-fi narratívába csomagolja a teljes dinamika fejezetet. A történet szerint a diákok a Newton-1 űrhajó legénységeként egy távoli bolygón rekedtek, ahol a túlélésük – és a "Hétlábú Iszonyat" nevű űrlény elkerülése – kizárólag a fizikai számításaik pontosságán múlik.
 
 A projekt lelke egy modern AI-asszisztens, amely egyszerre tölti be a tudásgeneráló, az ellenőrző és a magyarázó szerepét, mindezt egy melankolikus hajócomputer stílusában. A rendszer technikai háttere is tartogat érdekességeket: az egész keretrendszert „vibecoding” módszerrel raktam össze. Ez a digitális asszisztens például támogatja a flipped classroom (fordított osztályterem) modellt is és egy fizikai fogalmat otthon a fedélzeti computertől tanulhatnak meg a diákok. A tananyag során nem csak passzív hallgatók, hanem szakértői csoportokban, a mesterséges intelligencia által generált forrásokra és a hivatalos tankönyvekre támaszkodva készítik fel egymást a következő szektorra, míg az AI türelmesen (vagy éppen egy cinikus megjegyzés kíséretében) korrigálja a rossz irányba tartó gondolatmeneteket.
